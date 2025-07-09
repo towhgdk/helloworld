@@ -4,7 +4,7 @@
 ### USB기사 한 두세페이지 긁어왔던듯
 <br>
 <image src = "https://images.anandtech.com/reviews/memory/usbdriveroundup1/crucialgizmo.jpg"><br>
-<image src = "https://images.anandtech.com/doci/11005/kingston_datatraveler_gt_2TB_flash_drive_678_678x452.jpg"><br>
+<image src = "https://images.anandtech.com/reviews/memory/usbdriveroundup1/corsairflashvoyager.jpg"><br>
 사진 걍 넣어봄<br>
 [발표자료].(/project.pptx)<br><br>
 [검색엔진](https://naver.com)<br><br>
