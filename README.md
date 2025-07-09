@@ -10,4 +10,4 @@
 
 [발표자료](/ppt.pptx)<br><br>
 ### 정리해본거사진1<br>
-<image src = "2025-07-09 14 46 55.png"><br>
+<image src = "2025-07-09 14 46 55.png"><br><br>
