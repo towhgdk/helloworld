@@ -8,5 +8,5 @@
 위에 사진은 그냥 기능배우려고 넣음<br><br>
 [참고자료].(https://www.anandtech.com/show/1807)<br><br>
 
-
+[발표자료](/ppt.pptx)<br><br>
 ### 스트림릿써본거사진1
