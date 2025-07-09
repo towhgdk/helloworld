@@ -5,8 +5,8 @@
 <br>
 <image src = "https://images.anandtech.com/reviews/memory/usbdriveroundup1/crucialgizmo.jpg"><br>
 <image src = "https://images.anandtech.com/reviews/memory/usbdriveroundup1/corsairflashvoyager.jpg"><br>
-사진 걍 넣어봄<br>
-[발표자료].(/project.pptx)<br><br>
-[검색엔진](https://naver.com)<br><br>
+위에 사진은 그냥 기능배우려고 넣음<br><br>
+[참고자료].(https://www.anandtech.com/show/1807)<br><br>
+
 
 ### 스트림릿써본거사진1
