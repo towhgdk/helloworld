@@ -9,4 +9,5 @@
 [참고자료].(https://www.anandtech.com/show/1807)<br><br>
 
 [발표자료](/ppt.pptx)<br><br>
-### 스트림릿써본거사진1
+### 정리해본거사진1<br>
+<image src = "2025-07-09 14 46 55.png"><br>
