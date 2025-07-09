@@ -7,8 +7,4 @@
 [발표자료].(/project.pptx)<br><br>
 [검색엔진](https://naver.com)<br><br>
 
-PPT1
-
 ### 스트림릿써본거사진1
-사진1
-PPT1
